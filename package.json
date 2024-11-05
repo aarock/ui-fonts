@@ -1,0 +1,9 @@
+{
+  "name": "@ui/fonts",
+  "version": "1.0.0",
+  "description": "Dynamically link fonts via @font-face at runtime",
+  "main": "webfontloader.js",
+  "types": "webfontloader.d.ts",
+  "type": "module",
+  "scripts": {}
+}
